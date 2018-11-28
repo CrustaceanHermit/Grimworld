@@ -1,5 +1,5 @@
 # Grimworld
-In the grim darkness of the far future there is only war.
+In the grim darkness of the far future there is only immortality.
 
 Would make the folder a bit more suitable, but this site apperantly has so much functionality regarding workflow that that would only needlessly complicate things. Have a little look around the site, make an acount. 
 i think we will be able to figure this out.
